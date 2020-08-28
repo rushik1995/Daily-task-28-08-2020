@@ -1,0 +1,60 @@
+
+body{
+margin: 0;
+background-color: #abc3c9;
+}
+ h1{
+text-align: center;
+}
+.Images{
+text-align: center;
+padding-left: 30px;
+}
+.dance{
+text-align: center;
+margin: auto;
+padding-top: 32px;
+}
+
+.Description{
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 32px;
+  margin-right: 32px;
+  font-size: 24px
+}
+.Formdiv{
+  margin: auto;
+  width: 350px;
+  height: 250px;
+  background-color: white;
+  text-align: center;
+  padding: 60px 40px;
+}
+.Form1{
+  font-size: 18px;
+  margin-top: 40px;
+border: 0;
+border-bottom: 1px solid black;
+width: 100%;
+
+
+}
+#Form2{
+  margin-top: 40px;
+  color: White;
+  background-color: darkblue;
+  width: 80px;
+  height: 32px;
+/* border: 0;
+border-bottom: 1px solid black; */
+}
+
+.heading{
+  text-align: center;
+  font-family: Tahoma;
+}
+.list{
+  font-size: 20px;
+  text-align: center;
+}
